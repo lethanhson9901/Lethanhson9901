@@ -16,9 +16,9 @@ Feel free to check out my Github repositories and get in touch if you have any q
 
 ## I love working with these 👩🏻‍💻
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="left" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 <br/>
 <br/>
@@ -26,5 +26,5 @@ Feel free to check out my Github repositories and get in touch if you have any q
 > Check out my most recent ReactJS projects 📑
 >> Teck stack: ReactJS, RecoilJS, Javascript, TailwindCSS, PostgreSQL
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=qnhanhh&repo=face-detection-v2"/>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=qnhanhh&repo=face-detection-api"/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lethanhson9908&repo=PAVoice-Vietnamese-Text-To-Speech-dataset"/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lethanhson9901&repo=Vietnamese_Prodiff"/>
