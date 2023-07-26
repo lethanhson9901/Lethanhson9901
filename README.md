@@ -1,12 +1,12 @@
-# 🤩 Got time to read? Let's catch up! 👩🏻‍🎓
+# 🤩 Got time to read? Let's catch up!
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=lethanhson9901&show_icons=true&bg_color=00000000"/>
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lethanhson9901&layout=compact"/>
 
 <br/>
 
-## About meee 😚🤓
-Hi, I'm Thanh Son, graduated at HUST (Hanoi University of Science and Technology). Now I'm working as data engineer / software engineer at Mobifone IT Center🏫. I specialize in technology, BigData and AI domain.
+## About me 😚🤓
+Hi, I'm Le Thanh Son, graduated at HUST (Hanoi University of Science and Technology). Now I'm working as data engineer / software engineer at Mobifone IT Center🏫. I specialize in technology, BigData and AI domain.
 
 On my Github profile, you can find some of the projects I've worked on 💻. I'm constantly looking for new ways to advance my skills and knowledge 👆🏻. 
 
