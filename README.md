@@ -5,10 +5,6 @@
 
 <br/>
 
-# About Me
-
-Hi, I'm Le Thanh Son, a graduate of HUST (Hanoi University of Science and Technology) 🎓. Currently, I work as a data engineer / software engineer at Mobifone IT Center, specializing in the technology, Big Data, and AI domains.
-
 ## My Background
 
 - **Name**: Le Thanh Son
