@@ -25,5 +25,3 @@ Feel free to check out my Github repositories and get in touch if you have any q
 
 > Check out my project:
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lethanhson9908&repo=PAVoice-Vietnamese-Text-To-Speech-dataset"/>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lethanhson9901&repo=learning-tracker"/>
