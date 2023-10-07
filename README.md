@@ -16,7 +16,7 @@ On my GitHub profile, you can explore some of the projects I've had the pleasure
 
 Feel free to check out my GitHub repositories, and don't hesitate to reach out if you have any questions or suggestions for collaboration. I'm always open to new opportunities and ideas.
 
-- **GitHub Profile**: [Github](https://github.com/lethanhson9901)
+- **Facebook Profile**: [Facebook][(https://github.com/lethanhson9901](https://www.facebook.com/lethanhson9901))
 - **LinkedIn Profile**: [LinkedIn](https://www.linkedin.com/in/son-le-thanh-42892a16b/)
 - **Email**: hoasung9901@gmail.com
 
