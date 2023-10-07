@@ -1,8 +1,9 @@
 # Got time to read? Let's catch up!
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=lethanhson9901&show_icons=true&bg_color=00000000"/>
+<--
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lethanhson9901&layout=compact"/>
-
+-->
 <br/>
 
 ## My Background
