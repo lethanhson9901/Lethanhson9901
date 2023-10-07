@@ -1,4 +1,4 @@
-# 🤩 Got time to read? Let's catch up!
+# Got time to read? Let's catch up!
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=lethanhson9901&show_icons=true&bg_color=00000000"/>
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lethanhson9901&layout=compact"/>
@@ -8,7 +8,7 @@
 ## My Background
 
 - **Name**: Le Thanh Son
-- **Education**: Hanoi University of Science and Technology (HUST)
+- **Education**: Computer Engineering, Hanoi University of Science and Technology (HUST)
 - **Current Role**: Data Engineer / Software Engineer at Mobifone IT Center
 
 ## My Projects 💻
@@ -19,9 +19,9 @@ On my GitHub profile, you can explore some of the projects I've had the pleasure
 
 Feel free to check out my GitHub repositories, and don't hesitate to reach out if you have any questions or suggestions for collaboration. I'm always open to new opportunities and ideas.
 
-- **GitHub Profile**: [Link to your GitHub profile]
-- **LinkedIn Profile**: [Link to your LinkedIn profile, if applicable]
-- **Email**: [Your Email Address]
+- **GitHub Profile**: [Github](https://github.com/lethanhson9901)
+- **LinkedIn Profile**: [LinkedIn](https://www.linkedin.com/in/son-le-thanh-42892a16b/)
+- **Email**: hoasung9901@gmail.com
 
 
 <br/>
