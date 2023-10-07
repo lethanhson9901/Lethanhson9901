@@ -5,12 +5,28 @@
 
 <br/>
 
-## About me 😚🤓
-Hi, I'm Le Thanh Son, graduated at HUST (Hanoi University of Science and Technology). Now I'm working as data engineer / software engineer at Mobifone IT Center🏫. I specialize in technology, BigData and AI domain.
+# About Me
 
-On my Github profile, you can find some of the projects I've worked on 💻. I'm constantly looking for new ways to advance my skills and knowledge 👆🏻. 
+Hi, I'm Le Thanh Son, a graduate of HUST (Hanoi University of Science and Technology) 🎓. Currently, I work as a data engineer / software engineer at Mobifone IT Center, specializing in the technology, Big Data, and AI domains.
 
-Feel free to check out my Github repositories and get in touch if you have any questions or suggestions for collaboration 🎉🎉🎉.
+## My Background
+
+- **Name**: Le Thanh Son
+- **Education**: Hanoi University of Science and Technology (HUST)
+- **Current Role**: Data Engineer / Software Engineer at Mobifone IT Center
+
+## My Projects 💻
+
+On my GitHub profile, you can explore some of the projects I've had the pleasure of working on. I'm passionate about technology and am always seeking new ways to expand my skills and knowledge 👆🏻.
+
+## Get in Touch 
+
+Feel free to check out my GitHub repositories, and don't hesitate to reach out if you have any questions or suggestions for collaboration. I'm always open to new opportunities and ideas.
+
+- **GitHub Profile**: [Link to your GitHub profile]
+- **LinkedIn Profile**: [Link to your LinkedIn profile, if applicable]
+- **Email**: [Your Email Address]
+
 
 <br/>
 
