@@ -1,7 +1,7 @@
 # Hi there, I'm Son Le 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6A5ACD&random=false&width=435&lines=Data+Engineer+%26+DevOps;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6A5ACD&random=false&width=435&lines=DevOps+Engineer;AI+Developer;Cloud+Architect" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
@@ -9,33 +9,41 @@
 class SonLe:
     def __init__(self):
         self.name = "Le Thanh Son"
-        self.role = "Data Engineer / DevOps"
+        self.role = "DevOps Engineer / AI Developer"
         self.company = "PVcomBank"
         self.education = {
             "university": "Hanoi University of Science and Technology (HUST)",
             "major": "Computer Engineering",
             "degree": "Bachelor's"
         }
-        self.interests = ["Data Engineering", "DevOps", "Machine Learning", "Cloud Computing"]
+        self.interests = ["DevOps", "MLOps", "AI/ML", "Cloud Architecture"]
     
     def get_skills(self):
         return {
-            'Data Engineering': ['Python', 'SQL', 'ETL', 'Data Warehousing'],
-            'DevOps': ['Docker', 'Kubernetes', 'CI/CD', 'Infrastructure as Code'],
-            'Cloud': ['AWS', 'GCP', 'Azure'],
-            'Tools': ['Git', 'Jenkins', 'Terraform', 'Linux']
+            'DevOps': ['Docker', 'Kubernetes', 'Jenkins', 'Terraform', 'Ansible'],
+            'AI/ML': ['TensorFlow', 'PyTorch', 'Scikit-learn', 'MLflow'],
+            'Cloud': ['AWS', 'GCP', 'Azure', 'Kubernetes'],
+            'Tools': ['Git', 'ArgoCD', 'Prometheus', 'Grafana']
         }
+
+    def get_current_focus(self):
+        return [
+            "Building scalable ML pipelines",
+            "Implementing GitOps practices",
+            "Automating cloud infrastructure",
+            "Exploring AI/ML in production"
+        ]
 ```
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
@@ -46,16 +54,25 @@ class SonLe:
 </div>
 
 ## 🎯 Current Focus
-- Building scalable data pipelines and ETL processes
-- Implementing DevOps best practices and automation
-- Exploring cloud-native technologies
-- Enhancing system reliability and performance
+- Implementing GitOps and Infrastructure as Code (IaC)
+- Building and deploying ML models at scale
+- Automating CI/CD pipelines for AI applications
+- Cloud-native architecture and microservices
+- MLOps practices and tooling
 
 ## 🌟 Featured Projects
-- **Data Pipeline Automation**: Developed robust ETL pipelines for processing financial data
-- **Cloud Infrastructure**: Implemented and managed cloud-based solutions on AWS
-- **DevOps Optimization**: Streamlined deployment processes using Docker and Kubernetes
-- **Monitoring Solutions**: Set up comprehensive monitoring and alerting systems
+- **MLOps Pipeline**: Automated ML model deployment with Kubeflow and ArgoCD
+- **Cloud Infrastructure**: Terraform-managed multi-cloud environments
+- **AI Platform**: Scalable ML model serving with Kubernetes
+- **Monitoring Stack**: Prometheus/Grafana observability solutions
+
+## 💻 Core Competencies
+```text
+DevOps/MLOps        ████████████░░░░░   60%
+AI/ML Development   ████████░░░░░░░░░   40%
+Cloud Architecture  ██████████░░░░░░░   50%
+Infrastructure      ████████░░░░░░░░░   40%
+```
 
 ## 📫 Let's Connect
 <div align="left">
@@ -70,16 +87,12 @@ class SonLe:
   </a>
 </div>
 
-## 📊 Weekly Dev Breakdown
-```text
-Software Engineering    ████████████░░░░░   60%
-DevOps             ████████░░░░░░░░░   40%
-Cloud Computing    ██████░░░░░░░░░░░   30%
-Machine Learning   ████░░░░░░░░░░░░░   20%
-```
-
-## 🤝 Let's Collaborate!
-I'm always open to interesting projects and collaboration opportunities. Whether you want to discuss data engineering, DevOps practices, or potential partnerships, feel free to reach out!
+## 🤝 Open for Collaboration
+Interested in DevOps, MLOps, or AI projects? Let's connect! I'm always excited to collaborate on:
+- Setting up robust CI/CD pipelines
+- Building scalable ML infrastructures
+- Implementing cloud-native solutions
+- Developing AI/ML applications
 
 ## 📈 Contribution Graph
 ![Snake animation](https://github.com/lethanhson9901/lethanhson9901/blob/output/github-contribution-grid-snake.svg)
