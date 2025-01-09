@@ -14,15 +14,15 @@ class SonLe:
         self.education = {
             "university": "Hanoi University of Science and Technology (HUST)",
             "major": "Computer Engineering",
-            "degree": "Bachelor's"
+            "degree": "Engineer's"
         }
         self.interests = ["DevOps", "MLOps", "AI/ML", "Cloud Architecture"]
     
     def get_skills(self):
         return {
-            'DevOps': ['Docker', 'Kubernetes', 'Jenkins', 'Terraform', 'Ansible'],
-            'AI/ML': ['TensorFlow', 'PyTorch', 'Scikit-learn', 'MLflow'],
-            'Cloud': ['AWS', 'GCP', 'Azure', 'Kubernetes'],
+            'DevOps': ['Docker', 'Kubernetes/Openshift', 'Gitlab CI', 'Terraform', 'Ansible'],
+            'AI/ML': ['TensorFlow', 'PyTorch', 'FastAPI/Flask', 'Django'],
+            'Cloud': ['AWS', 'GCP', 'Kubernetes'],
             'Tools': ['Git', 'ArgoCD', 'Prometheus', 'Grafana']
         }
 
